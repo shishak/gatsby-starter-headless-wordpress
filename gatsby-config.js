@@ -31,7 +31,7 @@ module.exports = {
       resolve: `gatsby-source-wordpress`,
       options: {
         // your wordpress source
-        baseUrl: `52.59.99.142`,
+        baseUrl: `3.123.87.137.xip.io`,
         protocol: `http`,
         // is it hosted on wordpress.com, or self-hosted?
         hostingWPCOM: false,
